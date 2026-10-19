@@ -1,0 +1,92 @@
+﻿ID,Study,Identified via,Domain,Design,Primary dimension,All dimensions (primary first),Principal finding or focus
+1,Anderson et al. (2024),Database searching,General / online,Experiment,Cognitive,Cognitive,Homogenization effects of LLM assistance on human creative ideation
+2,Doshi and Hauser (2024),Citation/update searching,General / online,Experiment,Cognitive,Cognitive,AI ideas raised individual story creativity but made stories more similar to each other
+3,Grande et al. (2024),Database searching,Education,Qualitative,Cognitive,Cognitive,Student perspectives on using an LLM for a professional ethics assignment
+4,Krupp et al. (2024),Database searching,Education,Experiment,Cognitive,"Cognitive, Behavioral","Moderated ChatGPT (hints, answer options) reduced unreflected copy-paste use among 40 students, but reflection stayed below internet search"
+5,Stadler et al. (2024),Database searching,Education,Experiment,Cognitive,Cognitive,LLM use reduced mental effort but lowered the depth of student reasoning in scientific inquiry
+6,Alghamdi (2025),Database searching,Education,Survey,Cognitive,Cognitive,Self-efficacy and discipline shaped students’ perceptions of generative AI for critical thinking and creativity
+7,Bastani et al. (2025),Citation/update searching,Education,Experiment,Cognitive,"Cognitive, Behavioral","Field experiment (approximately 1,000 students): GPT-4 raised practice grades (48% to 127%), but removing unguarded access reduced grades by 17%"
+8,Brender et al. (2025),Database searching,Education,Experiment,Cognitive,"Cognitive, Behavioral",Effects of a structured ChatGPT interface in a graduate robotics course
+9,Cheng and Zhang (2025),Database searching,General / online,Experiment,Cognitive,Cognitive,LLMs acted as inspiration boosters or sources of creative fixation depending on task complexity
+10,Fan et al. (2025),Citation/update searching,Education,Experiment,Cognitive,Cognitive,Randomized experiment (N = 117): ChatGPT improved essay scores without greater knowledge gain or transfer
+11,Fitzek and Bârgăoanu (2025),Database searching,Education,Mixed methods,Cognitive,Cognitive,Mixed-methods pilot introducing LLMs in communication and public relations education
+12,Gerlich (2025a),Database searching,General / online,Mixed methods,Cognitive,Cognitive,"Mixed-methods study (N = 666): frequent AI tool use was negatively associated with critical thinking, mediated by cognitive offloading"
+13,Gerlich (2025b),Database searching,General / online,Experiment,Cognitive,Cognitive,Experiment comparing structured prompting and unstructured use for critical reasoning with generative AI
+14,Hsu (2025),Database searching,Education,Experiment,Cognitive,Cognitive,Quasi-experiment on ChatGPT-supported EFL learning mediated by entangled cognition
+15,Iqbal et al. (2025),Database searching,Education,Survey,Cognitive,Cognitive,"Generative AI use, shared metacognition and cognitive offloading in relation to preservice teachers’ achievement"
+16,Lee et al. (2025),Citation/update searching,Work,Survey,Cognitive,"Cognitive, Decision-making",Survey of 319 knowledge workers (936 examples): higher confidence in GenAI associated with less critical thinking
+17,Li et al. (2025a),Database searching,General / online,Survey,Cognitive,"Cognitive, Behavioral","Two samples (n = 421; n = 1,030) supported an 18-item LLM Dependence Scale with functional and existential dependence factors"
+18,Manakina and Muldner (2025),Database searching,Education,Experiment,Cognitive,Cognitive,Prompts eliciting active and constructive engagement improved learning with both ChatGPT and traditional resources
+19,Murtaza et al. (2025),Database searching,Education,Experiment,Cognitive,Cognitive,ChatGPT-based training yielded on average 11% higher correctness and lower workload than paper-based learning
+20,Nascimento et al. (2025),Database searching,Education,Experiment,Cognitive,Cognitive,"LLM-based scaffolding and academic performance, with AI literacy and prior knowledge as mediators"
+21,Patac and Patac (2025),Database searching,Education,Qualitative,Cognitive,Cognitive,Students reported lower intrinsic and extraneous cognitive load when using ChatGPT
+22,Rico-Gutierrez (2025),Database searching,Education,Mixed methods,Cognitive,Cognitive,Role-reversal activity in which students teach AI to solve physics problems to foster critical thinking
+23,Sqalli (2025),Database searching,Education,Experiment,Cognitive,Cognitive,Eye-tracking of critical thinking during student-LLM coding interactions
+24,Sun et al. (2025),Database searching,Work,Experiment,Cognitive,Cognitive,Field experiment on how and for whom generative AI use affects employee creativity
+25,Wang et al. (2025a),Database searching,Education,Experiment,Cognitive,Cognitive,"High performers in AI-assisted writing had higher prior knowledge, more diversified interaction sequences and higher-level processing"
+26,Wang et al. (2025b),Database searching,Education,Experiment,Cognitive,"Cognitive, Decision-making",Individual differences and task complexity in young scholars’ cooperation with LLMs
+27,Yang et al. (2025),Database searching,Education,Experiment,Cognitive,Cognitive,Quasi-experiment on ChatGPT assistance in high school programming learning
+28,Yao et al. (2025),Database searching,Work,Survey,Cognitive,"Cognitive, Emotional",Double-edged effect of LLM dependence on researchers’ creativity
+29,Zheng et al. (2025b),Database searching,Education,Survey,Cognitive,"Cognitive, Emotional","Cognitive, affective and behavioural analysis of student trust in and dependence on generative AI"
+30,Hao et al. (2026),Database searching,Education,Experiment,Cognitive,Cognitive,"AI-enhanced task-based learning, higher-order thinking and academic writing self-efficacy among EFL postgraduates"
+31,Juan et al. (2026),Database searching,Education,Experiment,Cognitive,Cognitive,"Scaffolded human–GenAI shared agency, social interactivity and learning outcomes"
+32,Lim et al. (2026),Database searching,Education,Experiment,Cognitive,Cognitive,Electrodermal activity of students learning from LLMs versus curated texts
+33,Nylund et al. (2026),Database searching,General / online,Qualitative,Cognitive,"Cognitive, Emotional","Qualitative questionnaire (N = 223): productivity and offloading benefits alongside self-doubt, guilt and diminished skill confidence"
+34,Vyas et al. (2026),Database searching,Work,Experiment,Cognitive,"Cognitive, Behavioral","Effects of contextual fidelity on thinking, communication and action in AIassisted engineering design"
+35,Zhu et al. (2026),Citation/update searching,Education,Longitudinal,Cognitive,"Cognitive, Emotional","Three-wave study (N = 589): dependent offloading, unlike autonomous offloading, predicted agency transfer and lower motivation"
+36,Noy and Zhang (2023),Citation/update searching,Work,Experiment,Behavioral,Behavioral,Preregistered experiment (N = 453): time taken fell by 40% and output quality rose by 18%
+37,Yong and Mitchell (2023),Database searching,General / online,Qualitative,Behavioral,Behavioral,Repeat play of an LLM-based interactive story shifted from playing the story to gaming the system
+38,Grotlüschen et al. (2024),Database searching,General / online,Survey,Behavioral,"Behavioral, Cognitive",Ad hoc survey on writing with AI and implications for critical literacy
+39,Ju and Stewart (2024),Database searching,General / online,Mixed methods,Behavioral,Behavioral,"Everyday information needs, uses and gratifications of ChatGPT users"
+40,Jyothy et al. (2024),Database searching,Education,Mixed methods,Behavioral,Behavioral,"Fogg Behavior Model analysis of LLM use for learning, teaching and research"
+41,Korpimies et al. (2024),Database searching,Education,Mixed methods,Behavioral,"Behavioral, Cognitive",Unrestricted LLM use in a software project course: student perceptions and course performance
+42,Wang (2024),Database searching,Education,Survey,Behavioral,Behavioral,Motivation and UTAUT constructs in EFL learners’ acceptance of LLMs for academic writing
+43,Wang and Reynolds (2024),Database searching,Education,Mixed methods,Behavioral,Behavioral,Factors shaping Chinese learners’ engagement with LLMs for vocabulary learning
+44,Zhang et al. (2024a),Database searching,Education,Qualitative,Behavioral,"Behavioral, Emotional",Interviews with 14 students: efficiency valued alongside a crisis of trust and ethical concern
+45,Zhang et al. (2024b),Citation/update searching,Education,Survey,Behavioral,"Behavioral, Cognitive",Survey of 300 students: academic stress and performance expectations mediated self-efficacy and AI dependency
+46,Brynjolfsson et al. (2025),Citation/update searching,Work,Longitudinal,Behavioral,Behavioral,"Staggered deployment to 5,172 agents raised issues resolved per hour by 15% on average"
+47,Deng and Deng (2025),Database searching,General / online,Survey,Behavioral,"Behavioral, Cognitive",Three cross-sectional surveys on antecedents and cognitive consequences of addictive ChatGPT use
+48,Dvorak et al. (2025),Database searching,General / online,Experiment,Behavioral,"Behavioral, Decision-making","Preregistered experiment (n = 3,552): fairness, trust and cooperation declined when ChatGPT made the partner’s decision"
+49,Elshaer and Azazz (2025),Database searching,Education,Survey,Behavioral,"Behavioral, Emotional","LLM addiction and university students’ mental health, with gender as moderator"
+50,de Jesus and Nunes (2025),Database searching,General / online,Experiment,Behavioral,Behavioral,Search behaviour of Tetun-speaking users with LLM-based conversational search
+51,Khendek et al. (2025),Database searching,Education,Survey,Behavioral,Behavioral,"Data science students’ engagement, usage patterns and perceptions of LLMs in programming"
+52,Kobiella et al. (2025),Database searching,Work,Qualitative,Behavioral,"Behavioral, Cognitive",Long-term integration of LLMs in knowledge work: efficiency gains alongside questions of fulfilment
+53,Li et al. (2025b),Database searching,Education,Survey,Behavioral,Behavioral,Survey of engineering students from 12 universities on LLM tool use
+54,Liu et al. (2025a),Database searching,Education,Longitudinal,Behavioral,Behavioral,Student engagement patterns with LLM-powered course assistants
+55,Liu et al. (2025b),Database searching,Education,Mixed methods,Behavioral,Behavioral,"LLM use altered, rather than replaced, dictionary consultation among Chinese learners of English"
+56,Rücker et al. (2025),Database searching,Education,Survey,Behavioral,Behavioral,Risk perception in relation to acceptance and use of LLMs among university students
+57,Schneider (2025),Database searching,General / online,Mixed methods,Behavioral,Behavioral,Shifts in users’ mental models during human-LLM interaction
+58,Angrisani et al. (2026),Database searching,General / online,Longitudinal,Behavioral,Behavioral,"Nationally representative longitudinal survey of LLM awareness, use and perceptions in the United States"
+59,Pataranutaporn et al. (2023),Database searching,Mental health,Experiment,Decision-making,"Decision-making, Emotional","Priming beliefs about an AI agent changed perceived trustworthiness, empathy and effectiveness"
+60,Bo et al. (2024),Database searching,Education,Experiment,Decision-making,Decision-making,Transparency disclosures and reliability disclaimers in learner-LLM interaction
+61,Buchanan and Hickman (2024),Database searching,General / online,Experiment,Decision-making,Decision-making,Trust in human versus ChatGPT statements depended on source awareness; informed participants fact-checked more
+62,Costello et al. (2024),Citation/update searching,General / online,Experiment,Decision-making,Decision-making,"Dialogues with GPT-4 Turbo (N = 2,190) reduced conspiracy belief by about 20%, persisting for 2 months"
+63,Goh et al. (2024),Citation/update searching,Health care,Experiment,Decision-making,Decision-making,Randomized trial (50 physicians): LLM access did not significantly improve diagnostic reasoning
+64,Kim et al. (2024),Citation/update searching,General / online,Experiment,Decision-making,Decision-making,Preregistered experiment (N = 404): first-person uncertainty expressions reduced overreliance and increased accuracy
+65,Mirzaei et al. (2024),Database searching,Health care,Qualitative,Decision-making,Decision-making,Thematic analysis of clinicians’ ethical concerns about LLM integration in health care
+66,Si et al. (2024),Citation/update searching,General / online,Experiment,Decision-making,Decision-making,"LLM explanations made fact-checking efficient, but users overrelied on convincingly wrong explanations"
+67,Wilczyński et al. (2024),Database searching,General / online,Experiment,Decision-making,Decision-making,Factors associated with resistance to manipulative AI
+68,Chen et al. (2025),Database searching,Work,Qualitative,Decision-making,Decision-making,LLM-assisted peer reviewing with ChatGPT as a case study
+69,Kim et al. (2025),Database searching,General / online,Experiment,Decision-making,Decision-making,"Explanations, sources and inconsistencies as levers for appropriate reliance on LLM answers"
+70,Martell et al. (2025),Database searching,General / online,Experiment,Decision-making,Decision-making,Strategies for recovering trust after LLM trust violations
+71,Petzel and Sowerby (2025),Database searching,General / online,Experiment,Decision-making,"Decision-making, Emotional",Three preregistered experiments: AI-generated prejudice lowered perceived trustworthiness among stigmatized groups
+72,Pir Muhammad et al. (2025),Database searching,Work,Experiment,Decision-making,Decision-making,Influence of LLM-generated prioritizations on human decisions in requirements engineering
+73,Salvi et al. (2025),Citation/update searching,General / online,Experiment,Decision-making,Decision-making,Personalized GPT-4 was more persuasive than humans in 64.4% of non-tied debate pairs
+74,Spatharioti et al. (2025),Database searching,General / online,Experiment,Decision-making,Decision-making,Two experiments: LLM search was faster but users overrelied on incorrect answers; colour-coded highlighting improved accuracy
+75,Steyvers et al. (2025),Citation/update searching,General / online,Experiment,Decision-making,Decision-making,Users overestimated LLM accuracy; longer explanations raised confidence without improving accuracy
+76,Chaudhry and Choudhury (2026),Database searching,Health care,Mixed methods,Decision-making,"Decision-making, Behavioral",Mixed-methods study of US occupational medicine clinicians’ perceptions and practices with LLMs
+77,Cheng et al. (2026),Citation/update searching,General / online,Experiment,Decision-making,"Decision-making, Emotional","Three preregistered experiments (N = 2,405): sycophantic AI reduced willingness to repair conflict yet was preferred and trusted"
+78,Liu et al. (2026),Citation/update searching,General / online,Experiment,Decision-making,"Decision-making, Behavioral","Interaction logs (N = 77): copy-paste, skipped comprehension and repeated LLM referencing marked overreliance"
+79,Qazi et al. (2026),Citation/update searching,Health care,Experiment,Decision-making,Decision-making,Randomized trial with AI-literacy-trained physicians: flawed LLM advice degraded diagnostic accuracy
+80,Su et al. (2026),Database searching,Work,Experiment,Decision-making,"Decision-making, Emotional","LLM integration in human-robot collaboration: performance, mental stress and trust"
+81,Ma et al. (2023),Database searching,Mental health,Qualitative,Emotional,Emotional,Benefits and challenges of LLM-based conversational agents for mental wellbeing support
+82,Laestadius et al. (2024),Database searching,Mental health,Qualitative,Emotional,Emotional,Grounded theory of 582 Reddit posts: emotional dependence on Replika resembled human relationship patterns
+83,Folk et al. (2025),Database searching,General / online,Survey,Emotional,Emotional,Cultural variation in attitudes toward social chatbots
+84,Li et al. (2025c),Database searching,Mental health,Qualitative,Emotional,Emotional,User experience of customizable LLM-driven chatbots for depression care
+85,Song et al. (2025),Database searching,Mental health,Qualitative,Emotional,Emotional,Interviews with 21 users of LLM chatbots for mental health support; proposes therapeutic alignment
+86,Xu et al. (2025),Database searching,Mental health,Qualitative,Emotional,Emotional,Diary study describing a digital therapeutic alliance with mental health chatbots
+87,Yao and Xi (2025),Database searching,General / online,Survey,Emotional,Emotional,"Anthropomorphism, humanness perception and AI anxiety in LLM chatbots"
+88,Yu and Lan (2025),Database searching,Mental health,Mixed methods,Emotional,"Emotional, Behavioral","Survey of 149 users and 10 interviews: anthropomorphism was positively associated with media dependency, mediated by satisfaction"
+89,Zheng et al. (2025a),Database searching,Mental health,Qualitative,Emotional,Emotional,Week-long field study (N = 22): users built chatbot personas for emotional reliance and confronting stressors
+90,Folk and Dunn (2026),Citation/update searching,Mental health,Longitudinal,Emotional,Emotional,"12-month panel (more than 2,000 adults): social chatbot use predicted later increases in loneliness"
+91,De Freitas et al. (2026),Citation/update searching,Mental health,Experiment,Emotional,Emotional,"Five studies: AI companions reduced loneliness, driven by feeling heard"

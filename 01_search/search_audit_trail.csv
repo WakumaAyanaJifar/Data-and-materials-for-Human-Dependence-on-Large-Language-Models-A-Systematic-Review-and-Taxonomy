@@ -1,0 +1,7 @@
+﻿Source,Date executed,Records,Date limit applied,Field restrictions
+Web of Science Core Collection (Clarivate),2026-09-30,837,2023–2026 (year level),"Technology: TS; dependence: TI, AK"
+Scopus (Elsevier),2026-09-30,1668,2023–2026 (year level),"Technology: TITLE-ABS-KEY; dependence: TITLE, KEY"
+PubMed (National Library of Medicine),2026-09-30,221,None (window checked at screening); English[lang],"Technology: [tiab] and [ot]; dependence: [ti], [ot]"
+ACM Digital Library,2026-09-30,1813,None (window checked at screening),"Technology: Abstract; dependence: Title, Keywords"
+IEEE Xplore,2026-09-30,1303,None (window checked at screening),Both groups: Abstract; 'over-reliance' and 'de-skilling' omitted (query limit)
+Citation and update searching,2026-09-30,23,1 Dec 2022 – 30 Sep 2026,"Backward/forward citation chasing; venue monitoring (CHI, FAccT, CSCW)"

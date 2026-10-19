@@ -1,0 +1,20 @@
+﻿Stage,n
+Records identified from five databases,5842
+Duplicate records removed,1769
+Records screened (title and abstract),4073
+Records excluded at title and abstract,3938
+Reports sought for retrieval,135
+Reports not retrieved or not verifiable,11
+Reports assessed for eligibility (full text),124
+Excluded at full text: no dependence-related construct (E5),28
+Excluded at full text: extended abstract or book chapter (E1),11
+Excluded at full text: insufficient methodological detail (E6),6
+Excluded at full text: non-LLM system (E4),4
+Excluded at full text: no human participants (E3),3
+Studies included from database searching,72
+Reports identified through citation and update searching,23
+Excluded: preprint (E1),2
+Excluded: outside eligibility window (E6),1
+Excluded: non-LLM system (E4),1
+Studies included from other methods,19
+Total studies included,91

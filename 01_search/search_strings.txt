@@ -1,0 +1,107 @@
+Search strings – Human Dependence on Large Language Models: A Systematic Review
+All searches executed 30 September 2026.
+
+======================================================================
+Web of Science Core Collection
+======================================================================
+TS=(("large language model*" OR "LLM*" OR "ChatGPT" OR "GPT-4*"
+ OR "generative AI" OR "generative artificial intelligence"
+ OR "conversational AI" OR "Copilot" OR "Claude" OR "Gemini" OR "Replika")
+AND
+(TI=("dependence" OR "dependency" OR "reliance" OR "overreliance"
+ OR "over-reliance" OR "overtrust" OR "automation bias"
+ OR "automation complacency" OR "cognitive offloading" OR "deskilling"
+ OR "de-skilling" OR "trust calibration" OR "metacognitive laziness"
+ OR "AI addiction" OR "problematic use" OR "sycophancy" OR "companion*")
+OR
+AK=("dependence" OR "dependency" OR "reliance" OR "overreliance"
+ OR "over-reliance" OR "overtrust" OR "automation bias"
+ OR "automation complacency" OR "cognitive offloading" OR "deskilling"
+ OR "de-skilling" OR "trust calibration" OR "metacognitive laziness"
+ OR "AI addiction" OR "problematic use" OR "sycophancy" OR "companion*")))
+
+======================================================================
+Scopus
+======================================================================
+(TITLE-ABS-KEY(("large language model*" OR "LLM*" OR "ChatGPT" OR "GPT-4*"
+ OR "generative AI" OR "generative artificial intelligence"
+ OR "conversational AI" OR "Copilot" OR "Claude" OR "Gemini" OR "Replika"))
+AND
+(TITLE(("dependence" OR "dependency" OR "reliance" OR "overreliance"
+ OR "over-reliance" OR "overtrust" OR "automation bias"
+ OR "automation complacency" OR "cognitive offloading" OR "deskilling"
+ OR "de-skilling" OR "trust calibration" OR "metacognitive laziness"
+ OR "AI addiction" OR "problematic use" OR "sycophancy" OR "companion*"))
+OR
+KEY(("dependence" OR "dependency" OR "reliance" OR "overreliance"
+ OR "over-reliance" OR "overtrust" OR "automation bias"
+ OR "automation complacency" OR "cognitive offloading" OR "deskilling"
+ OR "de-skilling" OR "trust calibration" OR "metacognitive laziness"
+ OR "AI addiction" OR "problematic use" OR "sycophancy" OR "companion*"))))
+
+======================================================================
+PubMed
+======================================================================
+(
+("large language model*"[tiab] OR "LLM*"[tiab] OR "ChatGPT"[tiab]
+ OR "GPT-4*"[tiab] OR "generative AI"[tiab]
+ OR "generative artificial intelligence"[tiab]
+ OR "conversational AI"[tiab] OR "Copilot"[tiab] OR "Claude"[tiab]
+ OR "Gemini"[tiab] OR "Replika"[tiab])
+AND
+("dependence"[ti] OR "dependency"[ti] OR "reliance"[ti]
+ OR "overreliance"[ti] OR "over-reliance"[ti] OR "overtrust"[ti]
+ OR "automation bias"[ti] OR "automation complacency"[ti]
+ OR "cognitive offloading"[ti] OR "deskilling"[ti] OR "de-skilling"[ti]
+ OR "trust calibration"[ti] OR "metacognitive laziness"[ti]
+ OR "AI addiction"[ti] OR "problematic use"[ti] OR "sycophancy"[ti]
+ OR "companion*"[ti]
+OR
+ "dependence"[ot] OR "dependency"[ot] OR "reliance"[ot]
+ OR "overreliance"[ot] OR "over-reliance"[ot] OR "overtrust"[ot]
+ OR "automation bias"[ot] OR "automation complacency"[ot]
+ OR "cognitive offloading"[ot] OR "deskilling"[ot] OR "de-skilling"[ot]
+ OR "trust calibration"[ot] OR "metacognitive laziness"[ot]
+ OR "AI addiction"[ot] OR "problematic use"[ot] OR "sycophancy"[ot]
+ OR "companion*"[ot])
+)
+AND English[lang]
+
+======================================================================
+ACM Digital Library
+======================================================================
+[Abstract: ("large language model*" OR "LLM*" OR "ChatGPT" OR "GPT-4*"
+ OR "generative AI" OR "generative artificial intelligence"
+ OR "conversational AI" OR "Copilot" OR "Claude" OR "Gemini" OR "Replika")]
+AND
+([Title: ("dependence" OR "dependency" OR "reliance" OR "overreliance"
+ OR "over-reliance" OR "overtrust" OR "automation bias"
+ OR "automation complacency" OR "cognitive offloading" OR "deskilling"
+ OR "de-skilling" OR "trust calibration" OR "metacognitive laziness"
+ OR "AI addiction" OR "problematic use" OR "sycophancy" OR "companion*")]
+OR
+[Keywords: ("dependence" OR "dependency" OR "reliance" OR "overreliance"
+ OR "over-reliance" OR "overtrust" OR "automation bias"
+ OR "automation complacency" OR "cognitive offloading" OR "deskilling"
+ OR "de-skilling" OR "trust calibration" OR "metacognitive laziness"
+ OR "AI addiction" OR "problematic use" OR "sycophancy" OR "companion*")])
+
+======================================================================
+IEEE Xplore
+======================================================================
+("Abstract":"large language model*" OR "Abstract":"LLM*"
+ OR "Abstract":"ChatGPT" OR "Abstract":"GPT-4*"
+ OR "Abstract":"generative AI" OR "Abstract":"generative artificial intelligence"
+ OR "Abstract":"conversational AI" OR "Abstract":"Copilot"
+ OR "Abstract":"Claude" OR "Abstract":"Gemini" OR "Abstract":"Replika")
+AND
+("Abstract":"dependence" OR "Abstract":"dependency"
+ OR "Abstract":"reliance" OR "Abstract":"overreliance"
+ OR "Abstract":"overtrust" OR "Abstract":"automation bias"
+ OR "Abstract":"automation complacency" OR "Abstract":"cognitive offloading"
+ OR "Abstract":"deskilling" OR "Abstract":"trust calibration"
+ OR "Abstract":"metacognitive laziness" OR "Abstract":"AI addiction"
+ OR "Abstract":"problematic use" OR "Abstract":"sycophancy"
+ OR "Abstract":"companion*")
+
+Note (PubMed): the executed query also included the technology terms with [ot] tags.

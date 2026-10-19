@@ -1,0 +1,7 @@
+﻿Code,Definition
+E1,"Non-peer-reviewed, non-archival, preprint, extended abstract, or book chapter"
+E2,"Secondary, review, or non-empirical work"
+E3,No human participants or human interaction data
+E4,Non-LLM or traditional rule-based AI
+E5,No dependence-related construct
+E6,"Published outside the eligibility window, not retrievable, or insufficient methodological detail"

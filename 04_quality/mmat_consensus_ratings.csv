@@ -1,0 +1,92 @@
+﻿ID,Study,Design,C1,C2,C3,C4,C5,Met (of 5)
+1,Anderson et al. (2024),Experiment,Y,Y,Y,CT,Y,4
+2,Doshi and Hauser (2024),Experiment,Y,Y,Y,CT,Y,4
+3,Grande et al. (2024),Qualitative,Y,Y,Y,Y,Y,5
+4,Krupp et al. (2024),Experiment,Y,Y,Y,CT,Y,4
+5,Stadler et al. (2024),Experiment,Y,Y,Y,CT,Y,4
+6,Alghamdi (2025),Survey,Y,CT,Y,CT,Y,3
+7,Bastani et al. (2025),Experiment,Y,Y,Y,CT,Y,4
+8,Brender et al. (2025),Experiment,Y,Y,Y,CT,Y,4
+9,Cheng and Zhang (2025),Experiment,Y,Y,Y,CT,Y,4
+10,Fan et al. (2025),Experiment,Y,Y,Y,CT,Y,4
+11,Fitzek and Bârgăoanu (2025),Mixed methods,Y,Y,Y,Y,Y,5
+12,Gerlich (2025a),Mixed methods,Y,Y,Y,Y,Y,5
+13,Gerlich (2025b),Experiment,Y,Y,Y,CT,Y,4
+14,Hsu (2025),Experiment,CT,Y,Y,Y,Y,4
+15,Iqbal et al. (2025),Survey,Y,CT,Y,CT,Y,3
+16,Lee et al. (2025),Survey,Y,CT,Y,CT,Y,3
+17,Li et al. (2025a),Survey,Y,CT,Y,CT,Y,3
+18,Manakina and Muldner (2025),Experiment,Y,Y,Y,CT,Y,4
+19,Murtaza et al. (2025),Experiment,Y,Y,Y,CT,Y,4
+20,Nascimento et al. (2025),Experiment,Y,Y,Y,CT,Y,4
+21,Patac and Patac (2025),Qualitative,Y,Y,Y,Y,Y,5
+22,Rico-Gutierrez (2025),Mixed methods,Y,Y,Y,CT,Y,4
+23,Sqalli (2025),Experiment,Y,Y,Y,CT,Y,4
+24,Sun et al. (2025),Experiment,Y,Y,Y,CT,Y,4
+25,Wang et al. (2025a),Experiment,Y,Y,Y,CT,Y,4
+26,Wang et al. (2025b),Experiment,Y,Y,Y,CT,Y,4
+27,Yang et al. (2025),Experiment,CT,Y,Y,Y,Y,4
+28,Yao et al. (2025),Survey,Y,CT,Y,CT,Y,3
+29,Zheng et al. (2025b),Survey,Y,CT,Y,CT,Y,3
+30,Hao et al. (2026),Experiment,Y,Y,Y,CT,Y,4
+31,Juan et al. (2026),Experiment,Y,Y,Y,CT,Y,4
+32,Lim et al. (2026),Experiment,Y,Y,Y,CT,Y,4
+33,Nylund et al. (2026),Qualitative,Y,Y,Y,Y,Y,5
+34,Vyas et al. (2026),Experiment,Y,Y,Y,CT,Y,4
+35,Zhu et al. (2026),Longitudinal,Y,Y,Y,Y,Y,5
+36,Noy and Zhang (2023),Experiment,Y,Y,Y,CT,Y,4
+37,Yong and Mitchell (2023),Qualitative,Y,Y,Y,Y,Y,5
+38,Grotlüschen et al. (2024),Survey,Y,CT,Y,CT,Y,3
+39,Ju and Stewart (2024),Mixed methods,Y,Y,Y,Y,Y,5
+40,Jyothy et al. (2024),Mixed methods,Y,Y,Y,Y,Y,5
+41,Korpimies et al. (2024),Mixed methods,Y,Y,Y,Y,Y,5
+42,Wang (2024),Survey,Y,CT,Y,CT,Y,3
+43,Wang and Reynolds (2024),Mixed methods,Y,Y,Y,Y,Y,5
+44,Zhang et al. (2024a),Qualitative,Y,Y,Y,Y,Y,5
+45,Zhang et al. (2024b),Survey,Y,CT,Y,CT,Y,3
+46,Brynjolfsson et al. (2025),Longitudinal,Y,Y,Y,Y,Y,5
+47,Deng and Deng (2025),Survey,Y,CT,Y,CT,Y,3
+48,Dvorak et al. (2025),Experiment,Y,Y,Y,CT,Y,4
+49,Elshaer and Azazz (2025),Survey,Y,CT,Y,CT,Y,3
+50,de Jesus and Nunes (2025),Experiment,Y,Y,Y,CT,Y,4
+51,Khendek et al. (2025),Survey,Y,CT,Y,CT,Y,3
+52,Kobiella et al. (2025),Qualitative,Y,Y,Y,Y,Y,5
+53,Li et al. (2025b),Survey,Y,CT,Y,CT,Y,3
+54,Liu et al. (2025a),Longitudinal,Y,Y,Y,Y,Y,5
+55,Liu et al. (2025b),Mixed methods,Y,Y,Y,Y,Y,5
+56,Rücker et al. (2025),Survey,Y,CT,Y,CT,Y,3
+57,Schneider (2025),Mixed methods,Y,Y,Y,Y,Y,5
+58,Angrisani et al. (2026),Longitudinal,Y,Y,Y,Y,Y,5
+59,Pataranutaporn et al. (2023),Experiment,Y,Y,Y,CT,Y,4
+60,Bo et al. (2024),Experiment,Y,Y,Y,CT,Y,4
+61,Buchanan and Hickman (2024),Experiment,Y,Y,Y,CT,Y,4
+62,Costello et al. (2024),Experiment,Y,Y,Y,CT,Y,4
+63,Goh et al. (2024),Experiment,Y,Y,Y,CT,Y,4
+64,Kim et al. (2024),Experiment,Y,Y,Y,CT,Y,4
+65,Mirzaei et al. (2024),Qualitative,Y,Y,Y,Y,Y,5
+66,Si et al. (2024),Experiment,Y,Y,Y,CT,Y,4
+67,Wilczyński et al. (2024),Experiment,Y,Y,Y,CT,Y,4
+68,Chen et al. (2025),Qualitative,Y,Y,Y,Y,Y,5
+69,Kim et al. (2025),Experiment,Y,Y,Y,CT,Y,4
+70,Martell et al. (2025),Experiment,Y,Y,Y,CT,Y,4
+71,Petzel and Sowerby (2025),Experiment,Y,Y,Y,CT,Y,4
+72,Pir Muhammad et al. (2025),Experiment,Y,Y,Y,CT,Y,4
+73,Salvi et al. (2025),Experiment,Y,Y,Y,CT,Y,4
+74,Spatharioti et al. (2025),Experiment,Y,Y,Y,CT,Y,4
+75,Steyvers et al. (2025),Experiment,Y,Y,Y,CT,Y,4
+76,Chaudhry and Choudhury (2026),Mixed methods,Y,Y,Y,Y,Y,5
+77,Cheng et al. (2026),Experiment,Y,Y,Y,CT,Y,4
+78,Liu et al. (2026),Experiment,Y,Y,Y,CT,Y,4
+79,Qazi et al. (2026),Experiment,Y,Y,Y,CT,Y,4
+80,Su et al. (2026),Experiment,Y,Y,Y,CT,Y,4
+81,Ma et al. (2023),Qualitative,Y,Y,Y,Y,Y,5
+82,Laestadius et al. (2024),Qualitative,Y,Y,Y,Y,Y,5
+83,Folk et al. (2025),Survey,Y,CT,Y,CT,Y,3
+84,Li et al. (2025c),Qualitative,Y,Y,Y,Y,Y,5
+85,Song et al. (2025),Qualitative,Y,Y,Y,Y,Y,5
+86,Xu et al. (2025),Qualitative,Y,Y,Y,Y,Y,5
+87,Yao and Xi (2025),Survey,Y,CT,Y,CT,Y,3
+88,Yu and Lan (2025),Mixed methods,Y,Y,Y,Y,Y,5
+89,Zheng et al. (2025a),Qualitative,Y,Y,Y,Y,Y,5
+90,Folk and Dunn (2026),Longitudinal,Y,Y,Y,Y,Y,5
+91,De Freitas et al. (2026),Experiment,Y,Y,Y,CT,Y,4
